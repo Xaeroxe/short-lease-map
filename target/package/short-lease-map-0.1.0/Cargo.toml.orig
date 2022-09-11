@@ -1,0 +1,15 @@
+[package]
+name = "short-lease-map"
+version = "0.1.0"
+edition = "2021"
+description = "A map collection optimized for brief internship of values"
+documentation = "https://docs.rs/short-lease-map/0.1.0/short-lease-map/"
+readme = "README.md"
+repository = "https://github.com/Xaeroxe/short-lease-map/"
+license = "MIT"
+keywords = ["map", "short-term", "short", "optimized"]
+categories = ["data-structures"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
